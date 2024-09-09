@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Winner960111&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Winner960111&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h5 align="left">🏆 Transform Your Business with Cutting-Edge AI Solutions | seasoned AI Developer Specializing in GPT-4 and LLMs 🏆<br><br>✅ 1,000+ Hours delivering AI-driven solutions.<br>✅ 5+ Years of experience in Data Science, Machine Learning, and AI Engineering.<br><br>Recent Success Stories:<br>Multi-Agent Chatbot System: Developed using GPT-4, LangChain, and Streamlit to enhance customer interaction and automate complex tasks.<br>RAG-based PDF Agent: Implemented GPT-4 and LangChain for efficient document management and retrieval, increasing productivity.<br>AI Assistant Development: Customized AI solutions using GPT-4 and FastAPI to optimize business processes and decision-making.<br>Why Work With Me?<br>🔍 Expertise:<br><br>AI & LLM Specialist: Proficient in building and deploying Large Language Models (LLM) like GPT-4 and LLaMA 3.<br>Advanced AI Integration: Expert in API integration and automation using Python, FastAPI, Flask, and Streamlit.<br>Tech Stack: Python, GPT-4, LangChain, LLaMA 3, OpenAI API, BeautifulSoup, Selenium, REST API.<br>🚀 What I Offer:<br><br>AI Model Development: Tailored AI solutions to streamline operations and enhance decision-making.<br>Automation & Optimization: Implement AI-driven automation to reduce costs and improve efficiency.<br>Data Analysis & Predictive Modeling: Extract, clean, and analyze data to uncover actionable insights.<br>🎯 Client-Focused Solutions:<br><br>AI Integration: Whether you need AI to transform your business or optimize existing processes, I provide seamless integration and support.<br>Data Scraping & Analysis: Delivering precise, data-driven strategies to inform your business decisions.<br>💼 Your Benefits:<br><br>Proven Track Record: Consistently delivering high-impact AI solutions that drive results.<br>Strategic Approach: Focused on your long-term success with innovative, client-centric solutions.<br>Dedicated Support: Ongoing support to ensure continuous improvement and business growth.<br>Let’s discuss how we can leverage AI to drive your business forward! Connect with me on Upwork today to explore how my expertise can meet your specific needs.</h5>
 
 ###
